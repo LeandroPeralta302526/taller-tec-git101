@@ -1,4 +1,4 @@
-# Entrega Nombre Apellido - NumeroDeEstudiante
+# Entrega Leandro Peralta - 302526
 
 #!/bin/bash
 
